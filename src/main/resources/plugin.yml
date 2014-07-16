@@ -1,0 +1,7 @@
+name: FireFlower
+main: fr.cartooncraft.fireflower.FireFlower
+version: 0.1
+commands:
+    getfireflower:
+        description: Give the Fire Flower!
+        usage: /getfireflower [player]
